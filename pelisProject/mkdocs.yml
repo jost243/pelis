@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: "pelisProject"
+nav:
+         - 'peli.md'
+         - 'futbol.md'
+         - 'superheroes.md'
+         - 'videojocs.md'
+
+theme:
+         name: readthedocs
+
+
+
